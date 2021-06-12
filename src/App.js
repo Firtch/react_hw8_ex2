@@ -8,7 +8,6 @@ class App extends PureComponent {
         reverted: false
     }
     render() {
-        console.log('---', 1)
         return (
             <div className="container">
                 <div className="jumbotron">
